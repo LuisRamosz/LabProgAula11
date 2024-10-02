@@ -1,0 +1,14 @@
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde11\bin\Debug\net8.0\tde11.exe
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde11\bin\Debug\net8.0\tde11.deps.json
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde11\bin\Debug\net8.0\tde11.runtimeconfig.json
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde11\bin\Debug\net8.0\tde11.dll
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde11\bin\Debug\net8.0\tde11.pdb
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde11\obj\Debug\net8.0\tde11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde11\obj\Debug\net8.0\tde11.AssemblyInfoInputs.cache
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde11\obj\Debug\net8.0\tde11.AssemblyInfo.cs
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde11\obj\Debug\net8.0\tde11.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde11\obj\Debug\net8.0\tde11.dll
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde11\obj\Debug\net8.0\refint\tde11.dll
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde11\obj\Debug\net8.0\tde11.pdb
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde11\obj\Debug\net8.0\tde11.genruntimeconfig.cache
+C:\Users\luisf\OneDrive\Documentos\Lab Programação\tde11\obj\Debug\net8.0\ref\tde11.dll
